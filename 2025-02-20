@@ -1,4 +1,4 @@
-# Today I learned that I can 
+# Today I learned how to make variables, and I figured how to work them and make really questions or comments based on previous answers.
 myName = input("What's you name? ")
 myAge = input("How old are you? ")
 print("Gee, that's REALLY OLD")
