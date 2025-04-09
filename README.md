@@ -31,4 +31,4 @@ drivetrain.drive_for(FORWARD, 1100, MM)
 # Step 5: Go over the seesaw and reach the end.
 
 
-#Reflection - Me and Scarlett did well on this project, during this time, we built the obstacles and started to code, but today the code was having some troubles, but we worked through them during class and fixed it. We needed to lock in today, and we did. So at the end, we both worked well around the problems and fixed them.
+# Reflection - Me and Scarlett did well on this project, during this time, we built the obstacles and started to code, but today the code was having some troubles, but we worked through them during class and fixed it. We needed to lock in today, and we did. So at the end, we both worked well around the problems and fixed them.
