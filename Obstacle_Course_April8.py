@@ -20,3 +20,12 @@ drivetrain.drive_for(FORWARD, 500, MM)
 drivetrain.turn_for(LEFT, 90, DEGREES)
 drivetrain.drive_for(FORWARD, 1100, MM)
 # going up the seesaw and to the finish line.
+
+
+
+# Steps for the obstacle course:
+# Step 1: Go through the 3 red balls and end up beside the wall
+# Step 2: Go around the wall, make sure not to hit it.
+# Step 3: Go through the tunnel and straight to the red ball.
+# Step 4: Push the Red ball into the goal and move reverse and turn right.
+# Step 5: Go over the seesaw and reach the end.
