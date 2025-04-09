@@ -1,0 +1,17 @@
+# In this assignment, we programed the Robot to go through the obstacle course me and Scarlett designed and built. 
+
+drivetrain.turn_for(LEFT,5, DEGREES)
+drivetrain.drive_for(FORWARD, 300, MM)
+drivetrain.turn_for(RIGHT, 15, DEGREES)
+drivetrain.drive_for(FORWARD, 400, MM)
+drivetrain.turn_for(LEFT, 25, DEGREES)
+drivetrain.drive_for(FORWARD, 300, MM)
+drivetrain.turn_for(LEFT, 70, DEGREES)
+drivetrain.drive_for(FORWARD, 100, MM)
+drivetrain.turn_for(LEFT, 110, DEGREES)
+drivetrain.drive_for(FORWARD, 1100, MM)
+drivetrain.drive_for(REVERSE, 1100, MM)
+drivetrain.turn_for(RIGHT, 90, DEGREES)
+drivetrain.drive_for(FORWARD, 500, MM)
+drivetrain.turn_for(LEFT, 90, DEGREES)
+drivetrain.drive_for(FORWARD, 1100, MM)
